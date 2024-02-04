@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin , lutfen once neyi degist
 
 ## license
 
-[MIT]((https://choosealicense.com/))
+[MIT](https://choosealicense.com/)
